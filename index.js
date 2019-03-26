@@ -2,10 +2,10 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(){
+function happyHolidaysTo("joe"){
  return `Happy holidays, ${name}!`
 }
 
-function happyHolidayTo() {
-  
+function happyHolidayTo(Christmas, joe) {
+  `Happy ${holiday}, ${name}!`
 }
